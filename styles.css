@@ -67,9 +67,12 @@
   margin: auto;
 }
 
+.centered {
+  text-align: center;
+}
+
 .body-text {
   padding: 2.2rem;
-  text-align: center;
 }
 
 .footer {
