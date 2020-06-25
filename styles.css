@@ -71,10 +71,6 @@ body {
   margin: auto;
 }
 
-.feature-text {
-  padding: 2.2rem;
-}
-
 .body-text {
   padding: 2.2rem;
   text-align: center;
@@ -99,4 +95,5 @@ p {
 
 hr {
   border: 1px solid black;
+  margin-top: 2rem;
 }
