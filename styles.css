@@ -74,8 +74,13 @@ body {
   margin: auto;
 }
 
+.feature-text {
+  padding: 2.2rem;
+}
+
 .body-text {
   padding: 2.2rem;
+  text-align: center;
 }
 
 .footer {
